@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Piton Tech<br>🌱 I’m currently learning web development<br>💬 Ask me about javascript algorithms questions and web applications<br>
+🌱 I’m currently learning web development<br>💬 Ask me about javascript algorithms questions and web applications<br>
 
 
 ## 🌐 Socials:

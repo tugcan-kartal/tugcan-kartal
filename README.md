@@ -1,5 +1,15 @@
 # 💫 About Me:
-🌱 I’m currently learning web development<br>💬 Ask me about javascript algorithms questions and web applications<br>
+Driven and results-oriented Full Stack Developer with strong academic foundation and over 2 years of hands-on experience building scalable,
+responsive web and mobile applications. Proficient in modern JavaScript frameworks and libraries such as React, Next.js, and Node.js, with
+robust backend experience using Express, NestJS, and MongoDB. Adept in both RESTful and GraphQL API development and integration, applying
+
+Agile methodologies to deliver high-performance products. Successfully contributed to multilingual platforms, real-time admin panels, and AI-
+driven applications, demonstrating a proven ability to optimize code, implement testing strategies, and deploy solutions via Docker and Vercel.
+
+Known for rapid learning, effective communication, and the ability to deliver high-quality results under pressure. Passionate about building
+accessible user-centric interfaces and scalable backend services that improve digital experiences. Experience includes working across
+international teams and diverse domains including tourism, AI, and automotive. Fluent in English, with strong interpersonal and teamwork
+skills cultivated through volunteer and Erasmus experiences. Committed to continuous growth through certifications and self-driven learning.
 
 
 

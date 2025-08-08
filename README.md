@@ -1,5 +1,5 @@
 # 💫 About Me:
-Driven and results-oriented Full Stack Developer with strong academic foundation and over 2 years of hands-on experience building scalable,
+Driven and results-oriented Software Developer with strong academic foundation and over 2 years of hands-on experience building scalable,
 responsive web and mobile applications. Proficient in modern JavaScript frameworks and libraries such as React, Next.js, and Node.js, with
 robust backend experience using Express, NestJS, and MongoDB. Adept in both RESTful and GraphQL API development and integration, applying
 
